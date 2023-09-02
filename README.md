@@ -2,6 +2,7 @@
 - 👀 I’m interested in various technologies including:
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
