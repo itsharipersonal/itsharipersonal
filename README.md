@@ -1,0 +1,5 @@
+- 👋 Hi, I’m [@itsharipersonal](https://github.com/itsharipersonal)
+- 👀 I’m interested in MERN stack development and cloud technologies.
+- 🌱 I’m currently learning microservices, Kubernetes (K8s), and Docker.
+- 💞️ I’m looking to collaborate on MERN stack projects.
+- 📫 How to reach me: Email me at hk8031@gmail.com
